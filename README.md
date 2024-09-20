@@ -1,27 +1,47 @@
-# AppPlaystation
+🎮 Recreating the PlayStation Store Interface with Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.4.
+This project is part of the Deal - Spring Boot and Angular +17 Bootcamp offered by DIO (Digital Innovation One). The challenge was to recreate the PlayStation Store interface using Angular, with a focus on refining front-end skills.
 
-## Development server
+🚀 Project Overview
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+The goal of this project was to recreate the PlayStation Store interface, utilizing key front-end technologies and honing development skills in:
 
-## Code scaffolding
+HTML & CSS for layout and styling
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+TypeScript for adding functionality in Angular
 
-## Build
+Node.js for backend integration
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+This challenge provided an excellent opportunity to deepen my understanding of Angular while enhancing my knowledge of modern web development.
 
-## Running unit tests
+🛠 Technologies Used
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Angular (Version 17+)
 
-## Running end-to-end tests
+HTML & CSS
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+TypeScript
 
-## Further help
+Node.js
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+📚 What I Learned
+
+By completing this project, I refined my skills in:
+
+Structuring layouts with HTML and CSS.
+
+Enhancing functionality using TypeScript in Angular.
+
+Integrating front-end and back-end using Node.js
+
+Applying best practices for responsive design and clean code.
+
+📌 Bootcamp
+
+This project was developed as part of the bootcamp: Deal - Spring Boot and Angular +17, hosted by DIO (Digital Innovation One).
+
+🎯 Challenge
+
+The challenge for this project was titled:
+
+"Recreating the PlayStation Store Interface with Angular".
